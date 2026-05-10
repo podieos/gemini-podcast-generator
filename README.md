@@ -20,7 +20,8 @@ export GEMINI_API_KEY="your_key_here"
    - `SPEAKER_1`, `SPEAKER_2` — host names
    - `VOICE_1`, `VOICE_2` — voices from `voices.txt`
    - `LANGUAGE` — language of the script
-   - `TIME_OF_PODCAST` — target length in minutes (≈200 words/min)
+   - `PROMPT` - maybe a little bit of editing
+   - `TIME_OF_PODCAST` — target length in minutes (≈150 words/min)
 3. Run:
 
 ```bash
